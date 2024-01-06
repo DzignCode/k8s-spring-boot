@@ -50,7 +50,7 @@ Command to run the docker image which we created in the previous step
 ## Login to the K8s Cluster
 Command to login to the K8s cluster from Cloud Shell
 
-`gcloud container clusters get-credentials techprimer-cluster-1 --zone  us-central1-a`
+`gcloud container clusters get-credentials dzigncode-cluster-1 --zone  us-central1-a`
 
 ## Kubernetes Commands
 ### List Pods
